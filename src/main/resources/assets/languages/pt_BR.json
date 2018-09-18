@@ -84,67 +84,67 @@
       "tier3": {
         "extra": "E você também encontrou um %1$s, sortudo!"
       },
-      "overflow": "%1$sYou found some fish, but part of your inventory was full, so we had to throw some of it back into the water...",
-      "success": "%1$sWhile calmly fishing, you found %2$s and you proceed to save them into your bucket.",
-      "success_money": "%1$sWhile calmly fishing, you found %2$s and **$%3$d credits** and you proceed to save them into your bucket.%4$s",
-      "success_money_noitem": "%1$sWhile calmly fishing, you found **$%2$d credits** and you proceed to save them into your pocket.",
-      "rod_broke": "%1$sYour fishing rod broke while trying to catch a fish :(",
-      "waifu_help": "Your waifu came and joined your fishing adventure and you both get a larger haul!"
+      "overflow": "%1$sVocê encontrou algum peixe, mas parte do seu inventário estava cheio, então tivemos de jogar algum de volta para a água.",
+      "success": "%1$sQuando pescando calmamente, você encontrou %2$s e você salvou-o em seu inventário.",
+      "success_money": "%1$sQuando pescando calmamente, você encontrou %2$s e **$%3$d créditos** e você salvou-os em seu inventário.%4$s",
+      "success_money_noitem": "%1$sQuando pescando calmamente, você encontrou **$%2$d créditos** ae você salvou-os em sua carteira.",
+      "rod_broke": "%1$sA sua vara de pesca quebrou enquanto tentava pegar um peixe :(",
+      "waifu_help": "O seu waifu veio e ingressou a sua aventura de pesca e os dois conseguem mais mercadorias"
     },
     "softban": {
-      "no_permission": "%1$sCannot soft ban: You don't have the Ban Members permission.",
-      "no_permission_self": "%1$sSorry! I don't have permission to ban members in this server.",
-      "no_users": "%1$sYou need to give me an user to soft-ban.",
-      "hierarchy_conflict": "%1$sYou cannot soft-ban an user in a higher hierarchy than you",
-      "yourself_note": "%1$sWhy are you trying to soft-ban yourself?",
-      "self_hierarchy_conflict": "%1$sCannot soft-ban member: %2$s, they are higher or the same hierarchy than I am!",
-      "success": "%1$s%2$s. **(%3$s got soft-banned)**",
-      "error": "%1$sError soft-banning [%2$s]: (No permission provided: %3$s)",
-      "unknown_error": "%1$sUnknown error while soft-banning %2$s: *(Error? %3$s: %4$s)*"
+      "no_permission": "%1$Você não pode soft-banir: Você não tem a permissão Banir Membros.",
+      "no_permission_self": "%1$sDesculpe! Eu não tenho permissão para dar soft ban em membros do servidor.",
+      "no_users": "%1$sVocê precisa dizer um usuário para dar soft ban.",
+      "hierarchy_conflict": "%1$sVocê não pode dar soft ban em um usuário com um cargo superior ao seu",
+      "yourself_note": "%1$sPorque está tentando dar soft ban em você mesmo?",
+      "self_hierarchy_conflict": "%1$sNão foi possível dar soft ban nesse membro: %2$s, ele tem um cargo superior ou igual ao meu!",
+      "success": "%1$s%2$s. **(%3$s foi soft-banido com sucesso)**",
+      "error": "%1$sError enquanto soft-banindo [%2$s]: (Sem permissão dada: %3$s)",
+      "unknown_error": "%1$sErro desconhecido enquanto tentava soft-banir %2$s: *(Erro? %3$s: %4$s)*"
     },
     "ban": {
-      "no_permission": "%1$sYou can't ban: You need the `Ban Users` permission.",
-      "no_users": "%1$sYou need to give me an user to ban.",
-      "no_permission_self": "%1$sSorry! I don't have permission to ban members in this server.",
-      "hierarchy_conflict": "%1$sYou cannot ban an user who's higher than you in the server hierarchy! Nice try %2$s",
-      "yourself_note": "%1$sWhy are you trying to ban yourself, silly?",
-      "self_hierarchy_conflict": "%1$sCannot ban member: %2$s, they are higher or the same hierarchy than I am!",
-      "success": "%1$s%2$s (%3$s got banned)",
-      "error": "%1$sError banning %2$s: (I need the permission %3$s)",
-      "unknown_error": "%1$sHuh, I encountered an unknown error while banning %2$s"
+      "no_permission": "%1$sVocê não pode banir: Você precisa de ter a permissão `Banir Usuários`.",
+      "no_users": "%1$sVocê precisa de dizer um usuário para banir.",
+      "no_permission_self": "%1$sDesculpe! Eu não tenho permissão para banir membros do servidor.",
+      "hierarchy_conflict": "%1$sVocê não pode banir um usuário com um cargo superior ao seu! Boa tentativa %2$s",
+      "yourself_note": "%1$sPorque está tentando banir você mesmo, bobo?",
+      "self_hierarchy_conflict": "%1$sNão foi possível banir esse membro: %2$s, ele tem um cargo superior ou igual ao meu!",
+      "success": "%1$s%2$s (%3$s foi banido)",
+      "error": "%1$sErro enquanto banindo %2$s: (Eu preciso da permissão %3$s)",
+      "unknown_error": "%1$sHuh, eu encontrei um erro desconhecido enquanto bania %2$s"
     },
     "kick": {
-      "no_permission": "%1$sCannot kick: You have no Kick Members permission.",
-      "no_users": "%1$sYou need to give me an user to kick.",
-      "no_permission_self": "%1$sSorry! I don't have permission to kick members in this server.",
-      "hierarchy_conflict": "%1$sYou cannot kick an user in a higher hierarchy than you",
-      "yourself_note": "%1$sWhy are you trying to kick yourself, silly?",
-      "self_hierarchy_conflict": "%1$sCannot kick member: %2$s, they are higher or the same hierarchy than I am!",
-      "success": "%1$s%2$s (%3$s got kicked)",
-      "error": "%1$sError kicking %2$s: (No permission provided: %3$s)",
-      "unknown_error": "%1$sUnknown error while attempting to kick %2$s"
+      "no_permission": "%1$sVocê não pode expulsar: Você não tem a permissão Expulsar Membros.",
+      "no_users": "%1$sVocê precisa dizer um usuário para expulsar.",
+      "no_permission_self": "%1$sDesculpe! Eu não tenho permissão para expulsar membros do servidor.",
+      "hierarchy_conflict": "%1$sVocê não pode banir um usuário com um cargo superior ao seu",
+      "yourself_note": "%1$sPorque está tentando expulsar você mesmo, bobo?",
+      "self_hierarchy_conflict": "%1$sNão foi possível expulsar esse membro: %2$s, ele tem um cargo superior ou igual ao meu!",
+      "success": "%1$s%2$s (%3$s foi expulso)",
+      "error": "%1$sErro enquanto expulsava %2$s: (Sem permissão dada: %3$s)",
+      "unknown_error": "%1$sErro desconhecido enquanto tentava expulsar %2$s"
     },
     "tempban": {
-      "no_time": "%1$sYou cannot temp ban an user without giving me the time.",
-      "no_reason": "%2$sYou cannot temp ban someone without a reason.",
-      "success": "%1$s%2$s (%3$s got temporally banned)"
+      "no_time": "%1$sVocê não pode banir temporariamente um usuário sem me dar o tempo.",
+      "no_reason": "%2$sVocê não pode banir temporariamente alguém sem um motivo.",
+      "success": "%1$s%2$s (%3$s foi temporariamente banido)"
     },
     "music_usage": {
-      "1": "*How to use music in Mantaro?*",
-      "2": "- To **queue songs from youtube or soundcloud** use `~>play` For example: `~>play https://www.youtube.com/watch?v=aAolFWjGfMs` *It will connect automatically to the voice channel you are in*",
-      "3": "- To **search for a song on youtube** use `~>play <search term>` (without the leading < and >) For example: `~>play see you again` (You need to select the number, just *type the number* after the selection box pops up!)",
-      "4": "- To **search for a song on soundcloud** use `~>play soundcloud <search term>` For example `~>play soundcloud hot milk`",
-      "5": "- To **check the queue** you just type `~>queue`",
-      "6": "- To **remove a track from the queue** you just need to use `~>removetrack` It takes as an argument the position the song is queued at (you can check in on queue)",
-      "7": "- To **pause or unpause** just use `~>pause`",
-      "8": "- To **stop the music and unbind the player** use `~>stop`",
-      "9": "- To **shuffle the queue** just use `~>shuffle`",
-      "10": "- And lastly, to **repeat a song** use `~>repeat` and to **repeat a queue** use `~>repeat queue`. Using `~>repeat` while repeat is on, turns it off\n",
-      "11": "For more info please use `~>help <command name>` (without the <> and replace command name with the name of the command you want)",
-      "12": "Enjoy your music and thanks for using Mantaro!"
+      "1": "*Como usar a música na Mantaro?*",
+      "2": "- Para **listar músicas do youtube ou do soundcloud** use `~>play` Por exemplo: `~>play https://www.youtube.com/watch?v=aAolFWjGfMs` *O bot irá automaticamente se conectar ao canal de voz em que você está*",
+      "3": "- Para **procurar uma música do youtube** use `~>play <termo de pesquisa>` (sem o < e o >) Por exemplo: `~>play see you again` (Você precisa de selecionar o número, apenas *escreva o número* após a caixa de seleção aparecer!)",
+      "4": "- Para **procurar uma música do soundcloud** use `~>play soundcloud <termo de pesquisa>` Por exemplo `~>play soundcloud hot milk`",
+      "5": "- Para **verificar a lista de espera** escreva `~>queue`",
+      "6": "- Para **remover um aúdio da lista de espera** só precisa de usar `~>removetrack` O argumento é considerado a posição da música na lista de espera (pode ser verificado na lista de espera)",
+      "7": "- Para **pausar ou retomar** apenas use `~>pause`",
+      "8": "- Para **para a música e desconectar o bot do canal de voz** use `~>stop`",
+      "9": "- Para **misturar a lista de espera** use `~>shuffle`",
+      "10": "- E por último, para **repetir uma música** use `~>repeat` e para **repetir a lista de espera** use `~>repeat queue`. Usando `~>repeat` enquanto a repetição estiver ativada, desativa-a\n",
+      "11": "Para mais informação use `~>help <nome do comando>` (sem o <> e substitua pelo nome do commando que quer)",
+      "12": "Aprovite a música e obrigado por usar a Mantaro!"
     },
     "lang": {
-      "info": "%1$sYou can change the server language (if applicable) using `~>opts language set <language code>`. Your personal language preferences can be changed using `~>profile lang <language code>`.\n**Available languages:** `%2$s`\nIf your language is not here and you want to help, feel free to join the support server and join the translation effort!"
+      "info": "%1$sVocê pode alterar o idioma do servidor (se disponível) usando `~>opts language set <código do idioma>`. A sua prefêrencia de idioma pode ser alterada usando `~>profile lang <código do idioma>`.\n**Idiomas disponíveis:** `%2$s`\nSe o seu idioma não está aqui e quiser ajudar, sinta-se livre para entrar no servidor de suporte e junte-se ao esforço de traduzir!"
     },
     "music_general": {
       "no_song": "%1$sYou need to tell me what song you want to play! *(YouTube, Soundcloud, Twitch URL or search queries are allowed)*",
