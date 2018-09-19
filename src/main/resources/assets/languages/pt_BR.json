@@ -177,35 +177,35 @@
         "clear_error": "%1$sOu você não está conectado ao canal de voz ou você não é DJ."
       },
       "connect": {
-        "success": "%1$sSuccessfully connected to channel **%2$s**!",
-        "full_channel": "%1$sI can't connect to that channel because it is full!",
-        "non_existent_channel": "%1$sI received a non-existent channel as response. If you set a voice channel and then deleted it, that might be the cause.\n We reset your music channel for you, try to play the music again.",
-        "user_no_vc": "%1$s**Please join a voice channel**",
-        "missing_permissions_connect": "%1$sI cannot connect to this channel due to the lack of permissions (%2$s).",
-        "missing_permission_speak": "%1$sI cannot speak in this channel due to the lack of permissions (%2$s).",
-        "channel_locked": "%1$sI can only play music on channel **%2$s**.",
-        "already_connected": "%1$sI'm already connected on channel **%2$s**! (Use the `move` command to move me to another channel)",
-        "attempting_to_connect": "%1$sI'm already trying to connect to channel **%2$s**! (Use the `move` command to move me to another channel)"
+        "success": "%1$sConectado ao canal **%2$s** com sucesso!",
+        "full_channel": "%1$sNão consigo me conectar a esse canal porque está cheio!",
+        "non_existent_channel": "%1$sEu recebi um canal inexistente como resposta. Se você definiu um canal de voz e depois apagou-o, essa é a possível causa.\n Nós resetamos o canal de música para você, tente tocar a música novamente.",
+        "user_no_vc": "%1$s**Por favor entre num canal de voz**",
+        "missing_permissions_connect": "%1$sEu não consegui me conectar a esse canal devido a falta de permissões (%2$s).",
+        "missing_permission_speak": "%1$sEu não consigo falar nesse canal devido a falta de permissões (%2$s).",
+        "channel_locked": "%1$sApenas posso tocar música no canal **%2$s**.",
+        "already_connected": "%1$sJá estou conectada no canal **%2$s**! (Use o comando `move` para me mover para outro canal)",
+        "attempting_to_connect": "%1$sEu já estou a tentar me conectar ao canal **%2$s**! (Use o comando `move` para me mover para outro canal)"
       },
       "listener": {
-        "paused": "%1$sPausing player because I got muted :(",
-        "resumed": "%1$sResuming playback because someone joined!",
-        "left_alone": "%1$sI'll leave **%2$s** in 2 minutes because I was left all alone :(",
-        "leave": "%1$sI decided to leave **%2$s** because I was left all alone :("
+        "paused": "%1$sPausando o reprodutor porque fui silenciada :(",
+        "resumed": "%1$sRetomando a música porque alguém entrou!",
+        "left_alone": "%1$sVou sair do **%2$s** em 2 minutos porque me deixaram sozinha :(",
+        "leave": "%1$sEu decidi sair do **%2$s** porque fui deixada sozinha :("
       },
       "loader": {
-        "over_limit": "%1$sThe queue you added had more than %2$d songs, so we added songs until this limit and ignored the rest.",
-        "loaded_playlist": "%1$sAdded **%2$d songs** to queue on playlist: **%3$s** *(%4$s)*",
-        "no_matches": "%1$sThe search yielded no results. If this appears for *all songs* you try to search for, you might want to use`~>play soundcloud <search term>` instead on the meanwhile. Direct links to youtube should work too.",
-        "error_loading": "%1$sError while fetching music: %2$s",
-        "over_queue_limit": "%1$sCould not queue %2$s: Surpassed queue song limit (%3$s)!",
-        "over_32_minutes": "%1$sCould not queue %2$s: Track is longer than 32 minutes! (%3$s)",
-        "fair_queue_limit_reached": "%1$s**Surpassed fair queue level of %2$d (Too many songs which are exactly equal)**",
-        "loaded_song": "%1$sAdded to queue -> **%2$s** **(%3$s)**",
-        "selection_text": "Song selection. Type the song number to continue.",
-        "timeout_text": "This timeouts in 30 seconds. Type &cancel to cancel."
+        "over_limit": "%1$sA lista de espera que você adicionou tem mais de %2$d músicas, então adicionamos música até ao limite e ignoramos o resto.",
+        "loaded_playlist": "%1$sAdicionadas **%2$d músicas** para a lista de espera da playlist: **%3$s** *(%4$s)*",
+        "no_matches": "%1$sA pesquisa feita não teve resultados. Se isso aparecer para *todas as músicas* que você tenta procurar, você pode usar `~>play soundcloud <termo de pesquisa>` em vez disso. Links diretos para o youtube também devem funcionar.",
+        "error_loading": "%1$sErro enquanto pegava a música: %2$s",
+        "over_queue_limit": "%1$sNão foi possível colocar na lista de espera %2$s: Passou o limite de músicas na lista de espera (%3$s)!",
+        "over_32_minutes": "%1$sNão foi possível colocar na lista de espera  %2$s: Faixa maior que 32 minutos! (%3$s)",
+        "fair_queue_limit_reached": "%1$s**Ultrapassou o nível justo da lista de espera de %2$d (Demasiadas músicas que são iguais)**",
+        "loaded_song": "%1$sAdicionado a lista de espera -> **%2$s** **(%3$s)**",
+        "selection_text": "Seleção de música. Escreva o número da música para continuar.",
+        "timeout_text": "Essa operação expira em 30 segundos. Digite &cancel para cancelar."
       },
-      "premium_beg": "%1$sConsider donating on patreon.com/mantaro if you like me, even a small donation will help towards keeping the bot alive (Check `~>donate` for more info!)",
+      "premium_beg": "%1$sConsidere doar no patreon.com/mantaro se você gosta de mim, até uma pequena doação vai ajudar a manter o bot vivo (Use `~>donate` para mais informações!)",
       "closed_connection": "%1$sClosed audio connection, unbinding player..."
     },
     "forceskip": {
